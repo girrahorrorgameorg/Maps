@@ -8,24 +8,24 @@ If you want to try out the map inside of quake, you are going to have to find a 
 
 1. Point QuArK to quake.exe
 
-![image1](images/image1.png)
+![image1](images/image1.PNG)
 
 2. Point QuArK to build tools
 
-![image2](images/image2.png)
+![image2](images/image2.PNG)
 
 3. Compile map
 
-![image3](images/image3.png)
+![image3](images/image3.PNG)
 
-![image4](images/image4.png)
+![image4](images/image4.PNG)
 
 4. Copy map files
 
-![image5](images/image5.png)
+![image5](images/image5.PNG)
 
-![image6](images/image6.png)
+![image6](images/image6.PNG)
 
 5. Test out map
 
-![image7](images/image7.png)
+![image7](images/image7.PNG)
